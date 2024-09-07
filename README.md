@@ -5,6 +5,7 @@ I am **Ramjas Choudhary** , a **Full Stack Developer** based out of India.Passio
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramjas-choudhary-40995418b/)
+
 [![X (Twitter) Follow](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=X&logoColor=white)](https://twitter.com/Ramjas__jaat)
 
 
@@ -52,4 +53,3 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jasschoudhary&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jasschoudhary.jasschoudhary)
